@@ -1,3 +1,8 @@
+* {
+    box-sizing : border-box; 
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 .header_link{
     font-size: 18px;
     color: #e5e7eb;
@@ -13,15 +18,23 @@
     display: flex;
     background-color: #1f2937;
     justify-content: center;
-    flex: 1;
+    align-items: flex-start;
+    flex-grow : 1;
+	width : 100vw;
+    padding: 15px;
+    margin: 0px;
 }
 
 .flex-1a{
     display: flex;
+    justify-content: center;
+    width: 50vw;
+    align-items: center;
 }
 
 .flex-1b{
     display: flex;
     justify-content: space-evenly;
     flex: 1;
+    align-items: center;
 }
