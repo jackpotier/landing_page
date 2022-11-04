@@ -108,3 +108,15 @@ body{
     margin-right: 15vw;
 }
 
+.info{
+    font-weight: 750;
+    font-size: 36px;
+    color: #1f2937;
+    text-align: center;
+    margin: 30px;
+}
+
+.flex-3a, .flex-3b{
+    font-size: 18px;
+    color: #e5e7eb;
+}
