@@ -57,7 +57,7 @@ body{
 
 #large_img {
     height: 250px;
-    width: 35vw;
+    width: auto;
 }
 
 .flex-2{
@@ -102,7 +102,7 @@ body{
 .flex-2b{
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     width: 35vw;
     height: 250px;
@@ -151,13 +151,6 @@ body{
     width: 160px;
     border-radius: 7px;
     padding: 0;
-    margin-left: 25px;
-    margin-right: 25px;
-}
-
-.subtext {
-    font-size: 16px;
-    color: #1f2937;
     margin-left: 25px;
     margin-right: 25px;
     text-align: center;
