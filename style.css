@@ -186,5 +186,18 @@ body{
     font-size: 18px;
     color: #1f2937;
     text-align: end;
-    margin: 20px;
+    margin: 40px;
 }
+
+.section-4 {
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 160px;
+    margin-right: 160px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    height: 160px;
+    border-radius: 7px;
+}
+
