@@ -231,10 +231,17 @@ body{
 
 .footer {
     display: flex;
+    flex-direction: column;
     height: 100px;
     width: 100vw;
     background-color: #1f2937;
     color:#f9faf8;
     justify-content: center;
     align-items: center;
+}
+
+.foot_text {
+    font-size: 16px;
+    color: #f9faf8;
+    margin: 3px;
 }
