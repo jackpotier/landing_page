@@ -1,10 +1,10 @@
 # landing_page
 The 'Landing Page' Project in Foundations of The Odin Project.
 
-Goal: 
+Goal: <br>L
 The goal of this project is to build a decent looking landing page for a website of your choice, using a sample image provided.
 
-What went well:
+What went well:<br>
 I managed to finish the project in about a day, creating a HTML and CSS landing page with images, flex-boxes, different font styles and boxes for javascript implementation.
 
 What I would do differently: 
